@@ -25,6 +25,7 @@ header {
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  margin-bottom: 1.5rem;
 }
 
 header h2 {
@@ -192,4 +193,5 @@ footer {
   .gallery img {
     width: 150px;
   }
+
 }
