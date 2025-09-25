@@ -105,6 +105,14 @@ audio, iframe {
   aspect-ratio: 16 / 9;
 }
 
+#location {
+  width: 100%;
+  height: 450px;
+  border: 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
 footer {
   text-align: center;
   padding: 1.5rem;
@@ -195,3 +203,4 @@ footer {
   }
 
 }
+
